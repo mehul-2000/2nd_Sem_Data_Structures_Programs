@@ -2,7 +2,7 @@
 #include<string.h>
 
 
-
+//function definition
 void checkPalindrome(char str[]);
 
 int main(){
